@@ -1,0 +1,6 @@
+公钥和私钥的作用，是否是每台电脑一个？
+现在的做法是每台电脑安装时产生的公钥需要添加到网站服务器上；而私钥保存在自己的电脑上，并且连接时需要指定所用的私钥；
+
+Git Extensions和Tortoisegit的结合使用使得对Git的使用也变为了图形化的界面，方便从svn的使用中迁移过来；
+
+Pageant key：使用Tortoisegit时需要将私钥加入到key list中，否则会出现Disconnect的错误；
