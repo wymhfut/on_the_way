@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="boost">
+      <UniqueIdentifier>{466128ee-2d72-4670-b158-42263ac96707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="boost\algorithm">
+      <UniqueIdentifier>{067c1810-2524-4046-9283-0167d8b06f75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="boost\algorithm\string">
+      <UniqueIdentifier>{fee9330c-169a-4fb5-a452-2376aaace36b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="boost_1_59_0\boost\align.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\aligned_storage.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\any.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\array.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\asio.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\assert.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\assign.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\atomic.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\bimap.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\bind.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\blank.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\blank_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\call_traits.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cast.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cerrno.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\checked_delete.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\chrono.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\circular_buffer.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\circular_buffer_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\compressed_pair.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\concept_archetype.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\concept_check.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\config.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\convert.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\crc.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cregex.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cstdfloat.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cstdint.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cstdlib.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\current_function.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\cxx11_char_types.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\date_time.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\dynamic_bitset.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\dynamic_bitset_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\enable_shared_from_this.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\exception_ptr.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\filesystem.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\flyweight.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\foreach.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\foreach_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\format.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\function.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\function_equal.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\function_output_iterator.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\functional.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\generator_iterator.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\geometry.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\get_pointer.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\implicit_cast.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\indirect_reference.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\integer.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\integer_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\integer_traits.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\intrusive_ptr.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\io_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\is_placeholder.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\iterator.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\iterator_adaptors.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\last_value.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\lexical_cast.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\limits.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\local_function.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\locale.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\make_default.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\make_shared.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\make_unique.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\math_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\mem_fn.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\memory_order.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\mpi.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\multi_array.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\multi_index_container.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\multi_index_container_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\next_prior.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\non_type.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\noncopyable.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\nondet_random.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\none.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\none_t.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\operators.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\optional.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\parameter.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\phoenix.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\pointee.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\pointer_cast.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\pointer_to_other.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\polymorphic_cast.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\polymorphic_pointer_cast.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\predef.h">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\preprocessor.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\program_options.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\progress.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\python.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\random.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\range.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\ratio.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\rational.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\ref.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\regex.h">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\regex.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\regex_fwd.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\scope_exit.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\scoped_array.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\scoped_ptr.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\shared_array.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\shared_container_iterator.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\shared_ptr.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\signal.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\signals.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\signals2.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\smart_ptr.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\spirit.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\static_assert.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\swap.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\thread.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\throw_exception.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\timer.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\token_functions.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\token_iterator.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\tokenizer.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\type.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\type_index.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\type_traits.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\unordered_map.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\unordered_set.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\utility.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\variant.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\version.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\visit_each.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\wave.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\weak_ptr.hpp">
+      <Filter>boost</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\case_conv.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\classification.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\compare.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\concept.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\config.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\constants.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\erase.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\find.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\find_format.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\find_iterator.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\finder.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\formatter.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\iter_find.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\join.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\predicate.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\predicate_facade.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\regex.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\regex_find_format.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\replace.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\sequence_traits.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\split.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\std_containers_traits.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\trim.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\trim_all.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+    <ClInclude Include="boost_1_59_0\boost\algorithm\string\yes_no_type.hpp">
+      <Filter>boost\algorithm\string</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
